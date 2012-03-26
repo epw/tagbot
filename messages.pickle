@@ -1,0 +1,35 @@
+(dp0
+S'yay'
+p1
+I1
+sS'\\bhi\\b'
+p2
+(I0
+S'Hello!'
+p3
+tp4
+sS'sing'
+p5
+(I0
+S'*sings* Mia-hee, mia-hoo, mia-ha, mia-ha-ha'
+p6
+tp7
+sS'i love'
+p8
+(I1
+S'I love you too!'
+p9
+tp10
+sS'sorry'
+p11
+I1
+sS'hate'
+p12
+I-1
+sS'hello'
+p13
+(I0
+S'Hi!'
+p14
+tp15
+s.

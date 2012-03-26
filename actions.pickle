@@ -1,0 +1,142 @@
+(dp0
+S'lick'
+p1
+I-5
+sS'dance'
+p2
+(I1
+S'<(^-^<) <(^-^)> (>^-^)>'
+p3
+tp4
+sS'shake'
+p5
+I-3
+sS'slap'
+p6
+I-2
+sS'blink'
+p7
+(I0
+S'*winks*'
+p8
+tp9
+sS'hug'
+p10
+(I4
+S'*is hugged*'
+p11
+tp12
+sS'kill'
+p13
+(I-7
+S'*dies*'
+p14
+tp15
+sS'barf'
+p16
+I-2
+sS'rape'
+p17
+(I-6
+S'*calls police!*'
+p18
+tp19
+sS'poke'
+p20
+(I0
+S'*is poked*'
+p21
+tp22
+sS'makes love'
+p23
+(I2
+S'%s, you are nice to me!'
+p24
+tp25
+sS'bite'
+p26
+I-3
+sS'attack'
+p27
+I-4
+sS'sorry'
+p28
+I1
+sS'murder'
+p29
+(I-7
+g14
+tp30
+sS'drink'
+p31
+(I0
+S'eval drink'
+p32
+tp33
+sS'hurt'
+p34
+I-4
+sS'yell'
+p35
+(I0
+S'Not so loud!'
+p36
+tp37
+sS'snarl'
+p38
+I-3
+sS'stab'
+p39
+(I-3
+S'*bleeds*'
+p40
+tp41
+sS'kiss'
+p42
+(I4
+S'*is kissed*'
+p43
+tp44
+sS'sing'
+p45
+(I0
+S'*sings* Mia-hee, mia-hoo, mia-ha, mia-ha-ha'
+p46
+tp47
+sS'wave'
+p48
+(I2
+S'*waves back*'
+p49
+tp50
+sS'eat'
+p51
+I-3
+sS'sex'
+p52
+I-5
+sS'wink'
+p53
+(I0
+S'*blinks*'
+p54
+tp55
+sS'glomp'
+p56
+(I5
+S'*glomps back*'
+p57
+tp58
+sS'cookie'
+p59
+(I1
+S'Yay! *takes cookie*'
+p60
+tp61
+sS'grope'
+p62
+(I-3
+S'*slaps %s*'
+p63
+tp64
+s.
